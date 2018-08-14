@@ -1,0 +1,15 @@
+Calvarycoin is an innovative money disbursement system that aims to generate demand growth through it's unique and dynamic blocks rewards.
+
+Name: CALVARYCOIN
+Ticker: CALVARYCOIN
+Algorithm: Scrypt
+Type: POW / POS
+Maximum money: 5 billion (5,000,000,000)
+Premine: [20%] 1 billion (1,000,000,000)
+p2p port=31771
+rpc port=31772
+Block Time: 1 min.
+Minimum stake age: 6 hours 
+Coinbase maturity: 10 confirmations
+Max block size: 2000000
+POW / POS REWARD: 125 CVC
